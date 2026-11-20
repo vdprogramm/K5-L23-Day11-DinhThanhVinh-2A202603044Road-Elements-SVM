@@ -1,8 +1,9 @@
 # Báo cáo cá nhân — Ngày 11
-Họ tên: Đinh Thành Vinh               Mã học viên: 2A202603044
-Phiên bản CVAT (Help → About): [Điền phiên bản hiển thị trên CVAT của bạn, vd: v2.x.x]
-Guideline: Road v1.0    Lần nộp (`revision` trong manifest): 1
-Thời điểm export (ngày giờ trên CVAT): [Điền ngày giờ xuất file zip, vd: 2026-11-21 02:50]    Số lần nộp lại sau Rework: 0
+- Họ tên: Đinh Thành Vinh
+- Mã học viên: 2A202603044
+- Phiên bản CVAT (Help → About): [Điền phiên bản hiển thị trên CVAT của bạn, vd: v2.x.x]
+- Guideline: Road v1.0    Lần nộp (`revision` trong manifest): 1
+- Thời điểm export (ngày giờ trên CVAT): [Điền ngày giờ xuất file zip, vd: 2026-11-21 02:50]    Số lần nộp lại sau Rework: 0
 
 ## 1. Kiểm project
 
